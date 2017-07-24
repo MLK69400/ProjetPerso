@@ -1,0 +1,19 @@
+RAISON SOCIALE: Bioforce3
+FORME JURIDIQUE: SARL au capital de 1€
+ADRESSE: 19bis Chemin du Martelet 69400 LIMAS
+MAIL: wf3Villefranche@gmail.com
+RCS LYON: 12345678900010 (SIREN[9 chiffres] + SIRET[5 chiffres])
+APE: 4721Z (Commerce de détail de fruits et légumes en magasin spécialisé)
+TVA intracommunautaire: FR69123456789
+RESPONSABLE DE PUBLICATION: Bruno Tavernier <ophois34@gmail.com>
+
+HEBERGEMENT: OVH SAS
+ADRESSE: 2 rue Kellerman BP 80157 ROUBAIX CEDEX 1
+TEL: 1007
+MAIL: cil@ovh.net
+
+Enregistrement auprès de la CNIL sous le numéro xxxxxxx
+Conformément à la loi Informatique et Libertés du 6
+Janvier 1978 modifiée, vous, vous possédez le droit d'accès,
+ de rectification et de suppression des données vous concernant.
+ Vous pouvez adresser votre demande à wf3Villefranche@gmail.com.
