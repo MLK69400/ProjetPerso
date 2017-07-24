@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -13,9 +14,7 @@
             <header>
                 <h1><?= $titrePage; //<?= est equivalent a <?php echo?></h1>
                 <?php
-
             // Menu de navigation
-
             include"include/navbar.php"
             ?>
             </header>
